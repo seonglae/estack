@@ -7,4 +7,4 @@
 
 ## 1.0.1
 
-- Remove wakatime and sort
+- Remove wakatime and sort .. unnecessary
