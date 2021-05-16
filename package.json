@@ -1,0 +1,43 @@
+{
+  "name": "vstack",
+  "displayName": "VStack",
+  "description": "Language Independant VSCode Default Development Stack of Extensions",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.56.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/seonglae/vstack"
+  },
+  "publisher": "seonglae",
+  "icon": "images/vstack.png",
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "adpyke.codesnap",
+    "brunnerh.insert-unicode",
+    "hediet.debug-visualizer",
+    "henriiik.vscode-sort",
+    "WakaTime.vscode-wakatime",
+    "mhutchie.git-graph",
+    "lehni.vscode-fix-checksums",
+    "ms-vscode-remote.remote-containers",
+    "ms-vscode-remote.remote-ssh",
+    "ms-vscode-remote.remote-ssh-edit",
+    "ms-vscode-remote.remote-wsl",
+    "ms-vscode-remote.vscode-remote-extensionpack",
+    "ms-vscode.hexeditor",
+    "naumovs.color-highlight",
+    "PeterHdd.github-folder",
+    "eamodio.gitlens",
+    "rioukkevin.vscode-git-commit",
+    "ryu1kn.annotator",
+    "GitHub.vscode-pull-request-github",
+    "TabNine.tabnine-vscode",
+    "tomoki1207.selectline-statusbar",
+    "lokalise.i18n-ally",
+    "geddski.macros"
+  ]
+}
