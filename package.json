@@ -2,7 +2,7 @@
   "name": "vstack",
   "displayName": "VStack",
   "description": "Language Independant VSCode Default Development Stack of Extensions",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "engines": {
     "vscode": "^1.x.x"
   },
