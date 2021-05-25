@@ -8,3 +8,8 @@
 ## 1.0.1
 
 - Remove wakatime and sort .. unnecessary
+
+
+## 1.0.6
+
+- Update readme about curated list
