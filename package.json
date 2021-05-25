@@ -1,7 +1,7 @@
 {
-  "name": "gstack",
-  "displayName": "GStack",
-  "description": "Language Independant VSCode Default Development Stack of Extensions",
+  "name": "estack",
+  "displayName": "EStack",
+  "description": "File Explorer VSCode Extension Pack",
   "version": "1.0.0",
   "engines": {
     "vscode": "^1.x.x"
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/seonglae/gstack"
+    "url": "https://github.com/seonglae/estack"
   },
   "license": "MIT",
   "publisher": "seonglae",
@@ -24,8 +24,18 @@
     "geology"
   ],
   "extensionPack": [
-    "SmartMonkey.geotools",
-    "jumpinjackie.vscode-map-preview",
-    "RandomFractalsInc.geo-data-viewer"
+    "sukumo28.wav-preview",
+    "bagetx.inf",
+    "tomoki1207.pdf",
+    "yzhang.markdown-all-in-one",
+    "ionutvmi.reg",
+    "DotJoshJohnson.xml",
+    "aperricone.vscode-dbf",
+    "janisdd.vscode-edit-csv",
+    "GrapeCity.gc-excelviewer",
+    "hediet.vscode-drawio",
+    "IBM.output-colorizer",
+    "emilast.LogFileHighlighter",
+    "redhat.vscode-yaml"
   ]
 }
