@@ -1,13 +1,19 @@
-# VStack
+# Estack
 <p align="center"><img width="200"alt="vstack" src="images/logo.png"/></p>
 
-Gstack offers great extensions for Geology Developer.
+EStack offers great experience for VSCode user vscode as File explorer.
 
 These extensions are language free, fit for everyone curated even you are not developer
 
-# Curated List
+# Supported Formats
 
-- [**Extension**]() - Extension Description 
+- .csv
+- .md
+- .pdf
+- .wav.xml
+- .drawio
+- .xlsx - Excel
+- .xml
 
 
 # Other Stacks

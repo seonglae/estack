@@ -25,17 +25,11 @@
   ],
   "extensionPack": [
     "sukumo28.wav-preview",
-    "bagetx.inf",
     "tomoki1207.pdf",
     "yzhang.markdown-all-in-one",
-    "ionutvmi.reg",
     "DotJoshJohnson.xml",
-    "aperricone.vscode-dbf",
     "janisdd.vscode-edit-csv",
     "GrapeCity.gc-excelviewer",
-    "hediet.vscode-drawio",
-    "IBM.output-colorizer",
-    "emilast.LogFileHighlighter",
-    "redhat.vscode-yaml"
+    "hediet.vscode-drawio"
   ]
 }
