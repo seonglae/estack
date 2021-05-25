@@ -1,5 +1,5 @@
 # VStack
-<p align="center"><img images/vstack.png width="200"alt="vstack" src="images/vstack.png"/></p>
+<p align="center"><img width="200"alt="vstack" src="images/vstack.png"/></p>
 
 VStack offers great extensions for both noob developers and mature developers.
 
