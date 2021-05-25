@@ -2,9 +2,9 @@
   "name": "vstack",
   "displayName": "VStack",
   "description": "Language Independant VSCode Default Development Stack of Extensions",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "engines": {
-    "vscode": "^1.56.0"
+    "vscode": "^1.x.x"
   },
   "galleryBanner": {
     "color": "#242426",
