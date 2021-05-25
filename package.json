@@ -1,8 +1,8 @@
 {
-  "name": "vstack",
-  "displayName": "VStack",
+  "name": "gstack",
+  "displayName": "GStack",
   "description": "Language Independant VSCode Default Development Stack of Extensions",
-  "version": "1.0.6",
+  "version": "1.0.0",
   "engines": {
     "vscode": "^1.x.x"
   },
@@ -12,33 +12,20 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/seonglae/vstack"
+    "url": "https://github.com/seonglae/gstack"
   },
   "license": "MIT",
   "publisher": "seonglae",
-  "icon": "images/vstack.png",
+  "icon": "images/logo.png",
   "categories": [
     "Extension Packs"
   ],
   "keywords": [
-    "stack",
-    "develop",
-    "necessary",
-    "pro",
-    "noob"
+    "geology"
   ],
   "extensionPack": [
-    "adpyke.codesnap",
-    "brunnerh.insert-unicode",
-    "hediet.debug-visualizer",
-    "lehni.vscode-fix-checksums",
-    "ms-vscode-remote.remote-containers",
-    "ms-vscode-remote.remote-ssh",
-    "ms-vscode.hexeditor",
-    "TabNine.tabnine-vscode",
-    "tomoki1207.selectline-statusbar",
-    "eamodio.gitlens",
-    "GitHub.vscode-pull-request-github",
-    "mhutchie.git-graph"
+    "SmartMonkey.geotools",
+    "jumpinjackie.vscode-map-preview",
+    "RandomFractalsInc.geo-data-viewer"
   ]
 }

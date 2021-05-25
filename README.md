@@ -1,28 +1,13 @@
 # VStack
-<p align="center"><img width="200"alt="vstack" src="images/vstack.png"/></p>
+<p align="center"><img width="200"alt="vstack" src="images/logo.png"/></p>
 
-VStack offers great extensions for both noob developers and mature developers.
+Gstack offers great extensions for Geology Developer.
 
 These extensions are language free, fit for everyone curated even you are not developer
 
 # Curated List
 
-- [**VSCode Remote Development**](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-extensionpack) - VSCode Remote Development is powerful tool to develop in every environment everywhere
-- [**Insert Unicode**](https://marketplace.visualstudio.com/items?itemName=brunnerh.insert-unicode) - Insert Unicode easily
-- [**Fix checksums**]() - Fix Broken VSCode install
-- [**Codesnap**]() - Beautiful Snapshot of your Code 
-
-<img src="images/codesnap.png" alt="drawing"/>
-
-- [**Debug Visualizer**]() - 
-- [**Hex Editor**]() - Hexa Editor
-  <img src="images/hex.png" alt="drawing"/>
-- [**Tabnine**]() - AI Based Code Intellisense auto complete
-- [**Select Line Status Bar**](https://marketplace.visualstudio.com/items?itemName=tomoki1207.selectline-statusbar) - Shows count of selected line info
-![selectline](https://raw.githubusercontent.com/tomoki1207/selectline-statusbar/images/screenshot.png)
-- [**Git Lens**]() - Git Text Editor Integration
-- [**Git Graph**]() - Git Graph Visualizer
-- [**Github Pull request**]() - Github pull request in VSCode
+- [**Extension**]() - Extension Description 
 
 
 
@@ -43,6 +28,7 @@ These extensions are language free, fit for everyone curated even you are not de
 
 
 # Developer
+Try type `seonglae` in extension search Menu
 - [Gtihub](https://github.com/seonglae)
 - [Page](https://www.seongland.com)
 
