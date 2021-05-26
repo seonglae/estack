@@ -1,5 +1,5 @@
 # Estack
-<p align="center"><img width="200"alt="estack" src="images/logo.png"/></p>
+<p align="center"><img width="100"alt="estack" src="images/logo.png"/></p>
 
 EStack offers great experience for VSCode user vscode as File explorer.
 
