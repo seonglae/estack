@@ -2,7 +2,7 @@
   "name": "estack",
   "displayName": "EStack",
   "description": "File Explorer VSCode Extension Pack",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "engines": {
     "vscode": "^1.x.x"
   },
