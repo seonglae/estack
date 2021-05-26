@@ -14,6 +14,7 @@ These extensions are language free, fit for everyone curated even you are not de
 - .drawio
 - .xlsx - Excel
 - .xml
+- .svg
 
 
 # Other Stacks
